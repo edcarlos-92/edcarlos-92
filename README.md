@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Carlos, a Humble Software developers with several years of coding in PHP,Javascript,HTML & CSS Technologies.
+- 👋 Hi, My name is Carlos, a Humble Software developer with several years of coding in PHP,Javascript,HTML & CSS Technologies.
 
 <!---
 edcarlos-92/edcarlos-92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
